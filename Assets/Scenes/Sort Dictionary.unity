@@ -774,5 +774,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"Players","value":{"$type":"Ludiq.AotDictionary"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Results","value":{"$type":"Ludiq.AotDictionary"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
